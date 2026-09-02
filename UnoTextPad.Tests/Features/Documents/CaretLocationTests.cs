@@ -1,3 +1,6 @@
+using UnoTextPad.Features.Documents;
+using Xunit;
+
 namespace UnoTextPad.Tests.Features.Documents;
 
 public class CaretLocationTests
