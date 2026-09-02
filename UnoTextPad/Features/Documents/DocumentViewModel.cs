@@ -1,3 +1,4 @@
+using CommunityToolkit.Mvvm.ComponentModel;
 using UnoTextPad.Features.Settings;
 
 namespace UnoTextPad.Features.Documents;
