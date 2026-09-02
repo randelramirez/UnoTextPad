@@ -1,3 +1,5 @@
+using Xunit;
+
 namespace UnoTextPad.Tests.TestInfrastructure;
 
 /// <summary>
