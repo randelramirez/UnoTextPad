@@ -1,3 +1,8 @@
+using UnoTextPad.Features.Settings;
+using UnoTextPad.Tests.TestInfrastructure;
+using Xunit;
+using static UnoTextPad.Tests.TestInfrastructure.TestCancellation;
+
 namespace UnoTextPad.Tests.Features.Settings;
 
 public class EditorSettingsViewModelTests
