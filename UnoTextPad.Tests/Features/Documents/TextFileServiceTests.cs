@@ -1,4 +1,7 @@
 using System.Text;
+using UnoTextPad.Features.Documents;
+using Xunit;
+using static UnoTextPad.Tests.TestInfrastructure.TestCancellation;
 
 namespace UnoTextPad.Tests.Features.Documents;
 
