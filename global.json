@@ -1,0 +1,14 @@
+{
+  // To update the version of Uno please update the version of the Uno.Sdk here. See https://aka.platform.uno/upgrade-uno-packages for more information.
+  "msbuild-sdks": {
+    "Uno.Sdk": "6.7.18"
+  },
+  "sdk": {
+    "allowPrerelease": false
+  },
+  // xUnit v3 runs on Microsoft.Testing.Platform, which the .NET 10 SDK drives through this
+  // runner rather than the legacy VSTest one. See https://aka.ms/dotnet-test-mtp-error
+  "test": {
+    "runner": "Microsoft.Testing.Platform"
+  }
+}
