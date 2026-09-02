@@ -1,3 +1,4 @@
+using Microsoft.Extensions.DependencyInjection;
 using UnoTextPad.Features.Documents;
 using UnoTextPad.Features.Editor;
 using UnoTextPad.Features.Session;
