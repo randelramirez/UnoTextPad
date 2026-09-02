@@ -1,5 +1,7 @@
 using System.Collections.ObjectModel;
 using System.ComponentModel;
+using CommunityToolkit.Mvvm.ComponentModel;
+using CommunityToolkit.Mvvm.Input;
 using UnoTextPad.Features.Documents;
 using UnoTextPad.Features.Session;
 using UnoTextPad.Features.Settings;
