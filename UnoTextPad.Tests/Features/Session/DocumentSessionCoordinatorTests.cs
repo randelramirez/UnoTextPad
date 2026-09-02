@@ -1,3 +1,11 @@
+using UnoTextPad.Features.Documents;
+using UnoTextPad.Features.Session;
+using UnoTextPad.Features.Settings;
+using UnoTextPad.Infrastructure.Storage;
+using UnoTextPad.Tests.TestInfrastructure;
+using Xunit;
+using static UnoTextPad.Tests.TestInfrastructure.TestCancellation;
+
 namespace UnoTextPad.Tests.Features.Session;
 
 /// <summary>
